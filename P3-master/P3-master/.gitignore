@@ -1,0 +1,7 @@
+bin
+pkg
+private/ref-solution/bin
+private/ref-solution/pkg
+.DS_Store
+
+*.zip
